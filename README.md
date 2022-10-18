@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RshaneTD
+- 👋 Hi, I’m R.Shane
 - 👀 I’m interested in front-end development 
 - 🌱 I’m currently learning reactjs, boostrap 
 - 💞️ I’m looking to collaborate on js project
